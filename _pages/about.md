@@ -8,7 +8,7 @@ Jiaojiao Zhang is currently an Assistant Professor of [The Intelligent Computing
 
 Her research interests include optimization algorithms and theory, with applications in distributed optimization, federated learning, secure and robust computation, and privacy protection. Her work has been published in TSP, TAC, TSIPN, NeurIPS, ICLR, and AISTATS, etc.
 
-**<span style="color:red;">Ph.D. positions for Fall 2025 are available.</span>** Feel free to contact me for more information.
+**<span style="color:red;">Two Postdoc positions are available.</span>** Feel free to contact me for more information.
 
 </div>
 
